@@ -253,7 +253,7 @@ const modalContent = {
     Image:"./The_Globe_Media/CrowdDynamics.jpg"
   },
   'RubiksCubeWebsite':{
-    title:"Not Necessarily Normal Rubiks Cube Solver",
+    title:"NNN Rubiks Cube Solver",
     content : "<p>This is my first full stack project where I created the algorithm in <b>C++</b>, desinged the frontend in <b>Javascript</b>, used <b>Node.js</b> to make the backend and deployed a fully function Rubiks cube solver website. The algorithm can solve any dimensional rubiks (not just 3 by 3). You can find the link to the website below.",
     link:"https://not-necessarily-normal-rubiks-cube-solver.onrender.com/",
     Image:"./The_Globe_Media/NNNSolver.png"
