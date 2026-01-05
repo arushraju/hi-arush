@@ -412,13 +412,13 @@ const modalContent = {
   //crowd Dynamics Projects
   'Cube015' : {
     title: "Crowd Dynamics",
-    content: "<p>This is my first undegraduate project and this was an attempt to simulate the huge's pedestrain flow usign the Finite Difference Method in <b>Matlab</b>. The Project is still on going. And the github page that explains about my proiect is given below.",
+    content: "<p>This is my first undergraduate project, undertaken to simulate Hughes’ pedestrian flow using the Finite Difference Method in MATLAB. The project is ongoing and was inspired by my personal observations of crowd movement while traveling to Omkareshwar. The GitHub repository detailing the project is provided below.</p>",
     link: 'https://arushraju.github.io/Human-Flow/',
     Image:"./The_Globe_Media/CrowdDynamics.jpg"
   },
   'Cube015_1' : {
     title: "Crowd Dynamics",
-    content: "<p>This is my first undegraduate project and this was an attempt to simulate the huge's pedestrain flow usign the Finite Difference Method in <b>Matlab</b>. The Project is still on going. And the github page that explains about my proiect is given below.",
+    content: "<p>This is my first undergraduate project, undertaken to simulate Hughes’ pedestrian flow using the Finite Difference Method in MATLAB. The project is ongoing and was inspired by my personal observations of crowd movement while traveling to Omkareshwar. The GitHub repository detailing the project is provided below.</p>",
     link: 'https://arushraju.github.io/Human-Flow/',
     Image:"./The_Globe_Media/CrowdDynamics.jpg"
   },
@@ -566,13 +566,13 @@ const modalContent = {
   //CloseFOAM
   'Cube035':{
     title:"CLoseFOAM",
-    content:"<p>This project is an attampt to make a software that has the capability to solve fluid simulation problems using finite diference method, particularly Marker and Cell scheme, entirely written in <b>C</b>. But the unique part of about the project was that I have tried using <b>OpenCV</b> to take image as an input, in order to solve the problem, rather than a CAD model. The github page explainign about the project is given below.",
+    content:"<p>This project is an attempt to develop a software capable of solving fluid simulation problems using the Finite Difference Method, specifically the Marker-and-Cell (MAC) scheme, implemented entirely in C.</p><p>A unique aspect of the project is the use of OpenCV to take images as input for the simulation, rather than traditional CAD models. The GitHub repository detailing the project is provided below.</p>",
     link:"https://arushraju.github.io/CloseFOAM/",
     Image:"./The_Globe_Media/CloseFOAM.png"
   },
   'Cube035_1':{
     title:"CLoseFOAM",
-    content:"<p>This project is an attampt to make a software that has the capability to solve fluid simulation problems using finite diference method, particularly Marker and Cell scheme, entirely written in <b>C</b>. But the unique part of about the project was that I have tried using <b>OpenCV</b> to take image as an input, in order to solve the problem, rather than a CAD model. The github page explainign about the project is given below.",
+    content:"<p>This project is an attempt to develop a software capable of solving fluid simulation problems using the Finite Difference Method, specifically the Marker-and-Cell (MAC) scheme, implemented entirely in C.</p><p>A unique aspect of the project is the use of OpenCV to take images as input for the simulation, rather than traditional CAD models. The GitHub repository detailing the project is provided below.</p>",
     link:"https://arushraju.github.io/CloseFOAM/",
     Image:"./The_Globe_Media/CloseFOAM.png"
   },
