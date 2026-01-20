@@ -672,8 +672,7 @@ const modalContent = {
   //PINN
   'PINN_1':{
     title:"Gortler's Boundary Layer using PINN",
-    content:"<p>In this project, I solved the Görtler’s transformation using a <b>Physics-Informed Neural Network (PINN)</b> approach to model a fluid flow problem. The implementation was carried out in <b>DeepXDE (Python)</b>, leveraging neural networks to enforce the governing physical laws directly within the learning process. This work was completed as part of the course <b>AE646</b>. A detailed explanation of the methodology, results, and the complete source code are available in the GitHub repository linked below.</p>
-.",
+    content:"<p>In this project, I solved the Görtler’s transformation using a <b>Physics-Informed Neural Network (PINN)</b> approach to model a fluid flow problem. The implementation was carried out in <b>DeepXDE (Python)</b>, leveraging neural networks to enforce the governing physical laws directly within the learning process. This work was completed as part of the course <b>AE646</b>. A detailed explanation of the methodology, results, and the complete source code are available in the GitHub repository linked below.</p>.",
     link:"https://github.com/arushraju/AE646",
     Image:"./The_Globe_Media/PINN.png"
   },
