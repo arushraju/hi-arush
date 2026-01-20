@@ -406,25 +406,25 @@ const modalContent = {
   //Aircraft project
   'Cube008' : {
     title : 'AE643 Project',
-    content: '<p>This is a group project from an Aeromodelling course where we were supposed to design an aircaft. We came up with a design having two fuselage, .A downloadable report corresponding to this project is given below.</p>',
+    content: '<p>This is a group project from an Aeromodelling course where we were supposed to design an aircaft. We came up with a design having two fuselage. A downloadable report corresponding to this project is given below.</p>',
     link : './The_Globe_Media/AE463_Report.pdf',
     Image : './The_Globe_Media/AE463_Pop_up_Image.jpg'
   },
   'Cube008_1' : {
     title : 'AE643 Project',
-    content: '<p>This is a group project from an Aeromodelling course where we were supposed to design an aircaft. We came up with a design having two fuselage, .A downloadable report corresponding to this project is given below.</p>',
+    content: '<p>This is a group project from an Aeromodelling course where we were supposed to design an aircaft. We came up with a design having two fuselage. A downloadable report corresponding to this project is given below.</p>',
     link : './The_Globe_Media/AE463_Report.pdf',
     Image : './The_Globe_Media/AE463_Pop_up_Image.jpg'
   },
   'Propellor_1' : {
     title : 'AE643 Project',
-    content: '<p>This is a group project from an Aeromodelling course where we were supposed to design an aircaft. We came up with a design having two fuselage, .A downloadable report corresponding to this project is given below.</p>',
+    content: '<p>This is a group project from an Aeromodelling course where we were supposed to design an aircaft. We came up with a design having two fuselage. A downloadable report corresponding to this project is given below.</p>',
     link : './The_Globe_Media/AE463_Report.pdf',
     Image : './The_Globe_Media/AE463_Pop_up_Image.jpg'
   },
   'Propellor_2' : {
     title : 'AE643 Project',
-    content: '<p>This is a group project from an Aeromodelling course where we were supposed to design an aircaft. We came up with a design having two fuselage, .A downloadable report corresponding to this project is given below.</p>',
+    content: '<p>This is a group project from an Aeromodelling course where we were supposed to design an aircaft. We came up with a design having two fuselage. A downloadable report corresponding to this project is given below.</p>',
     link : './The_Globe_Media/AE463_Report.pdf',
     Image : './The_Globe_Media/AE463_Pop_up_Image.jpg'
   },
@@ -505,13 +505,13 @@ const modalContent = {
   //crowd Dynamics Projects
   'Cube015' : {
     title: "Crowd Dynamics",
-    content: "<p>This is my first undegraduate project and this was an attempt to simulate the huge's pedestrain flow usign the Finite Difference Method in <b>Matlab</b>. The Project is still on going. And the github page that explains about my proiect is given below.",
+    content: "<p>This is my first undergraduate project, focused on simulating large-scale pedestrian flow using the Finite Difference Method in <b>MATLAB</b>. The project is currently ongoing. A detailed explanation of the project, along with the source code, is available on the GitHub page linked below.</p>",
     link: 'https://arushraju.github.io/Human-Flow/',
     Image:"./The_Globe_Media/CrowdDynamics.jpg"
   },
   'Cube015_1' : {
     title: "Crowd Dynamics",
-    content: "<p>This is my first undegraduate project and this was an attempt to simulate the huge's pedestrain flow usign the Finite Difference Method in <b>Matlab</b>. The Project is still on going. And the github page that explains about my proiect is given below.",
+    content: "<p>This is my first undergraduate project, focused on simulating large-scale pedestrian flow using the Finite Difference Method in <b>MATLAB</b>. The project is currently ongoing. A detailed explanation of the project, along with the source code, is available on the GitHub page linked below.</p>",
     link: 'https://arushraju.github.io/Human-Flow/',
     Image:"./The_Globe_Media/CrowdDynamics.jpg"
   },
@@ -640,19 +640,19 @@ const modalContent = {
   },
   'TicTacToe_Project_3':{
     title:"Tic Tac Toe with Feynman",
-    content : "<p>This project is an implementation of a Tic-Tac-Toe solver built using <b>Qiskit</b>, a quantum programming library in Python. It applies Grover’s algorithm to identify the optimal move for a given board state.While the problem itself is computationally trivial and the quantum approach is not efficient compared to classical methods, this project was developed as an exploration of applying quantum algorithms to game logic. The link to the GitHub Page is provided below.</p>",
+    content : "<p>This project is an implementation of a Tic-Tac-Toe solver built using <b>Qiskit</b>, a quantum programming library in Python. It applies Grover’s algorithm to identify the optimal move for a given board state. While the problem itself is computationally trivial and the quantum approach is not efficient compared to classical methods, this project was developed as an exploration of applying quantum algorithms to game logic. The link to the GitHub Page is provided below.</p>",
     link: 'https://arushraju.github.io/Tic-Tac-Toe-with-Feynman/',
     Image : './The_Globe_Media/QC_TicTacToe_Wallpaper.jpeg'
   },
   'TicTacToe_Project_4':{
     title:"Tic Tac Toe with Feynman",
-    content : "<p>This project is an implementation of a Tic-Tac-Toe solver built using <b>Qiskit</b>, a quantum programming library in Python. It applies Grover’s algorithm to identify the optimal move for a given board state.While the problem itself is computationally trivial and the quantum approach is not efficient compared to classical methods, this project was developed as an exploration of applying quantum algorithms to game logic. The link to the GitHub Page is provided below.</p>",
+    content : "<p>This project is an implementation of a Tic-Tac-Toe solver built using <b>Qiskit</b>, a quantum programming library in Python. It applies Grover’s algorithm to identify the optimal move for a given board state. While the problem itself is computationally trivial and the quantum approach is not efficient compared to classical methods, this project was developed as an exploration of applying quantum algorithms to game logic. The link to the GitHub Page is provided below.</p>",
     link: 'https://arushraju.github.io/Tic-Tac-Toe-with-Feynman/',
     Image : './The_Globe_Media/QC_TicTacToe_Wallpaper.jpeg'
   },
   'TicTacToe_Project_5':{
     title:"Tic Tac Toe with Feynman",
-    content : "<p>This project is an implementation of a Tic-Tac-Toe solver built using <b>Qiskit</b>, a quantum programming library in Python. It applies Grover’s algorithm to identify the optimal move for a given board state.While the problem itself is computationally trivial and the quantum approach is not efficient compared to classical methods, this project was developed as an exploration of applying quantum algorithms to game logic. The link to the GitHub Page is provided below.</p>",
+    content : "<p>This project is an implementation of a Tic-Tac-Toe solver built using <b>Qiskit</b>, a quantum programming library in Python. It applies Grover’s algorithm to identify the optimal move for a given board state. While the problem itself is computationally trivial and the quantum approach is not efficient compared to classical methods, this project was developed as an exploration of applying quantum algorithms to game logic. The link to the GitHub Page is provided below.</p>",
     link: 'https://arushraju.github.io/Tic-Tac-Toe-with-Feynman/',
     Image : './The_Globe_Media/QC_TicTacToe_Wallpaper.jpeg'
   },
@@ -665,56 +665,57 @@ const modalContent = {
   },
   'Cube035_1':{
     title:"CLoseFOAM",
-    content:"<p>This project is an attempt to develop a software capable of solving fluid simulation problems using the <b>Finite Difference Method</b>, specifically the <b>Marker-and-Cell (MAC) scheme</b>, implemented entirely in <b>C</b>. The distinctive aspect of this project is the use of <b>>OpenCV</b> to accept an image as input for defining the simulation domain, instead of relying on a traditional CAD model.</p><p>The GitHub page explaining the project is provided below.</p>",
+    content:"<p>This project is an attempt to develop a software capable of solving fluid simulation problems using the <b>Finite Difference Method</b>, specifically the <b>Marker-and-Cell (MAC) scheme</b>, implemented entirely in <b>C</b>. The distinctive aspect of this project is the use of <b>OpenCV</b> to accept an image as input for defining the simulation domain, instead of relying on a traditional CAD model.</p><p>The GitHub page explaining the project is provided below.</p>",
     link:"https://arushraju.github.io/CloseFOAM/",
     Image:"./The_Globe_Media/CloseFOAM.png"
   },
   //PINN
   'PINN_1':{
     title:"Gortler's Boundary Layer using PINN",
-    content:"<p>Here I have solved the Gortler's Transformation using Physics informed neural network. The project is implemnted in <b>DeepXDE (Python)</b>. Github Repository of the same is given below.",
+    content:"<p>In this project, I solved the Görtler’s transformation using a <b>Physics-Informed Neural Network (PINN)</b> approach to model a fluid flow problem. The implementation was carried out in <b>DeepXDE (Python)</b>, leveraging neural networks to enforce the governing physical laws directly within the learning process. This work was completed as part of the course <b>AE646</b>. A detailed explanation of the methodology, results, and the complete source code are available in the GitHub repository linked below.</p>
+.",
     link:"https://github.com/arushraju/AE646",
     Image:"./The_Globe_Media/PINN.png"
   },
   'PINN_2':{
     title:"Gortler's Boundary Layer using PINN",
-    content:"<p>Here I have solved the Gortler's Transformation using Physics informed neural network. The project is implemnted in <b>DeepXDE (Python)</b>. Github Repository of the same is given below.",
+    content:"<p>In this project, I solved the Görtler’s transformation using a <b>Physics-Informed Neural Network (PINN)</b> approach to model a fluid flow problem. The implementation was carried out in <b>DeepXDE (Python)</b>, leveraging neural networks to enforce the governing physical laws directly within the learning process. This work was completed as part of the course <b>AE646</b>. A detailed explanation of the methodology, results, and the complete source code are available in the GitHub repository linked below.",
     link:"https://github.com/arushraju/AE646",
     Image:"./The_Globe_Media/PINN.png"
   },
   'PINN_3':{
     title:"Gortler's Boundary Layer using PINN",
-    content:"<p>Here I have solved the Gortler's Transformation using Physics informed neural network. The project is implemnted in <b>DeepXDE (Python)</b>. Github Repository of the same is given below.",
+    content:"<p>In this project, I solved the Görtler’s transformation using a <b>Physics-Informed Neural Network (PINN)</b> approach to model a fluid flow problem. The implementation was carried out in <b>DeepXDE (Python)</b>, leveraging neural networks to enforce the governing physical laws directly within the learning process. This work was completed as part of the course <b>AE646</b>. A detailed explanation of the methodology, results, and the complete source code are available in the GitHub repository linked below.",
     link:"https://github.com/arushraju/AE646",
     Image:"./The_Globe_Media/PINN.png"
   },
   'PINN_4':{
     title:"Gortler's Boundary Layer using PINN",
-    content:"<p>Here I have solved the Gortler's Transformation using Physics informed neural network. The project is implemnted in <b>DeepXDE (Python)</b>. Github Repository of the same is given below.",
+    content:"<p>In this project, I solved the Görtler’s transformation using a <b>Physics-Informed Neural Network (PINN)</b> approach to model a fluid flow problem. The implementation was carried out in <b>DeepXDE (Python)</b>, leveraging neural networks to enforce the governing physical laws directly within the learning process. This work was completed as part of the course <b>AE646</b>. A detailed explanation of the methodology, results, and the complete source code are available in the GitHub repository linked below.",
     link:"https://github.com/arushraju/AE646",
     Image:"./The_Globe_Media/PINN.png"
   },
   'PINN_5':{
     title:"Gortler's Boundary Layer using PINN",
-    content:"<p>Here I have solved the Gortler's Transformation using Physics informed neural network. The project is implemnted in <b>DeepXDE (Python)</b>. Github Repository of the same is given below.",
+    content:"<p>In this project, I solved the Görtler’s transformation using a <b>Physics-Informed Neural Network (PINN)</b> approach to model a fluid flow problem. The implementation was carried out in <b>DeepXDE (Python)</b>, leveraging neural networks to enforce the governing physical laws directly within the learning process. This work was completed as part of the course <b>AE646</b>. A detailed explanation of the methodology, results, and the complete source code are available in the GitHub repository linked below.",
     link:"https://github.com/arushraju/AE646",
     Image:"./The_Globe_Media/PINN.png"
   },
   'PINN_6':{
     title:"Gortler's Boundary Layer using PINN",
-    content:"<p>Here I have solved the Gortler's Transformation using Physics informed neural network. The project is implemnted in <b>DeepXDE (Python)</b>. Github Repository of the same is given below.",
+    content:"<p>In this project, I solved the Görtler’s transformation using a <b>Physics-Informed Neural Network (PINN)</b> approach to model a fluid flow problem. The implementation was carried out in <b>DeepXDE (Python)</b>, leveraging neural networks to enforce the governing physical laws directly within the learning process. This work was completed as part of the course <b>AE646</b>. A detailed explanation of the methodology, results, and the complete source code are available in the GitHub repository linked below.",
     link:"https://github.com/arushraju/AE646",
     Image:"./The_Globe_Media/PINN.png"
   },
   'PINN_7':{
     title:"Gortler's Boundary Layer using PINN",
-    content:"<p>Here I have solved the Gortler's Transformation using Physics informed neural network. The project is implemnted in <b>DeepXDE (Python)</b>. Github Repository of the same is given below.",
+    content:"<p>In this project, I solved the Görtler’s transformation using a <b>Physics-Informed Neural Network (PINN)</b> approach to model a fluid flow problem. The implementation was carried out in <b>DeepXDE (Python)</b>, leveraging neural networks to enforce the governing physical laws directly within the learning process. This work was completed as part of the course <b>AE646</b>. A detailed explanation of the methodology, results, and the complete source code are available in the GitHub repository linked below.",
     link:"https://github.com/arushraju/AE646",
     Image:"./The_Globe_Media/PINN.png"
   },
   'PINN_8':{
     title:"Gortler's Boundary Layer using PINN",
-    content:"<p>Here I have solved the Gortler's Transformation using Physics informed neural network. The project is implemnted in <b>DeepXDE (Python)</b>. Github Repository of the same is given below.",
+    content:"<p>In this project, I solved the Görtler’s transformation using a <b>Physics-Informed Neural Network (PINN)</b> approach to model a fluid flow problem. The implementation was carried out in <b>DeepXDE (Python)</b>, leveraging neural networks to enforce the governing physical laws directly within the learning process. This work was completed as part of the course <b>AE646</b>. A detailed explanation of the methodology, results, and the complete source code are available in the GitHub repository linked below.",
     link:"https://github.com/arushraju/AE646",
     Image:"./The_Globe_Media/PINN.png"
   },
