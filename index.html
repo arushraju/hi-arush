@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+        <link rel="icon" href="./The_Globe_Media/GlobeIcon.png" sizes="64x64" type="image/png"/>
+        <title>Arush's</title>
+        <link rel="stylesheet" href="./style.css"/>
+    </head>
+    <body class="sour-gummy">
+
+        <canvas id="canvas"></canvas>
+
+        <!--loading page design-->
+        <div class="loading-background">
+            <div class="loading-container">
+                <!--This will be the sun at the middle-->
+                <div class="sun"><img src="./The_Globe_Media/sun-loading-image.png" alt=""></div>
+                <!--This will be earth that will rotate around the sun. On full rotation the loading stops-->
+                <div class="earth"><img src="./The_Globe_Media/earth-loading-image.png" alt=""></div>
+            </div>
+        </div>
+            
+
+        <!--Start Button-->
+        <div class="start-button-container">
+            <div class="start-button"></div>
+        </div>
+        <div class="arush-start-button-container">
+            <div class="arush-start-button">
+                <img class="start-image" src="./The_Globe_Media/ArushIcon.png" alt="">
+            </div>
+        </div>
+
+        <!--Rotation button-->
+        <div class="rotation-button">
+            <img src="./The_Globe_Media/Globe_Spin.png" alt="">
+        </div>
+
+        <!--Two Dimensional Button-->
+        <div class="two_D-button">
+            <img src="./The_Globe_Media/Two_Dimensional_Icon.png" alt="">
+        </div>
+
+
+        <!--Footer-->
+        <div class="footer-container">
+            <div class="footer-position">
+                <div class="footer">
+                    <div class="item_dash">
+                        <a target="_blank" href="https://in.linkedin.com/in/arush-chinchkhede"><img class="linkedin logo" src="./The_Globe_Media/InBug-White.png" alt=""></a>
+                    </div>
+                    <div class="item_dash">
+                        <a target="_blank" href="https://youtube.com/@arush_chinchkhede"><img class="youtube logo" src="./The_Globe_Media/YouTube.png" style="transform: scale(1.2);"></a>
+                    </div>
+                    <div class="item_dash">
+                        <a target="_blank" href="https://github.com/arushraju"><img class="github logo" src="./The_Globe_Media/github-mark-white.svg" alt=""></a>
+                    </div>
+                    <div class="item_dash">
+                        <a target="_blank" href="mailto:arushc123@gmail.com"><img class="email logo" src="./The_Globe_Media/Email.png" alt=""></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--Pop up-->
+        <div class="pop-up-position">
+            <div class="pop-up-container">
+                <div class="pop-up">
+                    <div class="heading item"></div>
+                    <div class="image item"><img class="the-image" src="" alt=""></div>
+                    <div class="content item"></div>
+                    <div class="last item">
+                        <div class="link"><a target="_blank" class="the-link" href="">Link</a></div>
+                        <div class="exit"><button class="exit-button">Exit</button></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <script type="importmap">
+            {
+                "imports": {
+                    "three": "https://cdn.jsdelivr.net/npm/three@v0.149.0/build/three.module.js",
+                    "three/addons/": "https://cdn.jsdelivr.net/npm/three@v0.149.0/examples/jsm/",
+                    "gsap": "https://cdn.jsdelivr.net/npm/gsap@3.12.5/index.js"
+                }
+            }
+        </script>
+        <script type="module" src="main.js"></script>
+    </body>
+</html>
