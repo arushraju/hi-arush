@@ -580,13 +580,13 @@ const modalContent = {
   'Cube015' : {
     title: "Crowd Dynamics",
     content: "<p>This is my first undergraduate project, an attempt to simulate Hughes’ pedestrian flow using the <b>Finite Difference Method</b> in <b>MATLAB</b>; the project is still ongoing, and the GitHub page explaining it is provided below.</p>",
-    link: 'https://github.com/arushraju/Crowd-Dynamics',
+    link: 'https://arushraju.github.io/Crowd-Dynamics/',
     Image:"./The_Globe_Media/CrowdDynamics.jpg"
   },
   'Cube015_1' : {
     title: "Crowd Dynamics",
     content: "<p>This is my first undergraduate project, an attempt to simulate Hughes’ pedestrian flow using the <b>Finite Difference Method</b> in <b>MATLAB</b>; the project is still ongoing, and the GitHub page explaining it is provided below.</p>",
-    link: 'https://github.com/arushraju/Crowd-Dynamics',
+    link: 'https://arushraju.github.io/Crowd-Dynamics/',
     Image:"./The_Globe_Media/CrowdDynamics.jpg"
   },
   //Rubiks cube project
