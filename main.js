@@ -863,19 +863,19 @@ const modalContent = {
     title: "Red Shelf",
     content: "<p>This project is a <u>3D Library Catalog</u> that helps users quickly find the correct bookshelf by entering a <u>Book ID</u>. The entire library model is created in <b>Blender</b>, while the interactive web graphics are built using <b>Three.js</b>. What makes this project special is that it is my <u>first Three.js project that also includes a backend</u>. The website uses the <u>college’s official API</u> to fetch book data and is designed to be <u>integrated directly into the college’s website</u>.</p><p>The link to the website is provided below.</p>",
     link : "https://red-shelf.vercel.app/",
-    Image : "Image of Red Shelf"
+    Image : "./The_Globe_Media/Red_Shelf.png"
   },
   'Plane004_1' : {
     title: "Red Shelf",
     content: "<p>This project is a <u>3D Library Catalog</u> that helps users quickly find the correct bookshelf by entering a <u>Book ID</u>. The entire library model is created in <b>Blender</b>, while the interactive web graphics are built using <b>Three.js</b>. What makes this project special is that it is my <u>first Three.js project that also includes a backend</u>. The website uses the <u>college’s official API</u> to fetch book data and is designed to be <u>integrated directly into the college’s website</u>.</p><p>The link to the website is provided below.</p>",
     link : "https://red-shelf.vercel.app/",
-    Image : "Image of Red Shelf"
+    Image : "./The_Globe_Media/Red_Shelf.png"
   },
   'Plane004_2' : {
     title: "Red Shelf",
     content: "<p>This project is a <u>3D Library Catalog</u> that helps users quickly find the correct bookshelf by entering a <u>Book ID</u>. The entire library model is created in <b>Blender</b>, while the interactive web graphics are built using <b>Three.js</b>. What makes this project special is that it is my <u>first Three.js project that also includes a backend</u>. The website uses the <u>college’s official API</u> to fetch book data and is designed to be <u>integrated directly into the college’s website</u>.</p><p>The link to the website is provided below.</p>",
     link : "https://red-shelf.vercel.app/",
-    Image : "Image of Red Shelf"
+    Image : "./The_Globe_Media/Red_Shelf.png"
   }
 }
 
