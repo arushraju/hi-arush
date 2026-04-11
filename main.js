@@ -479,25 +479,25 @@ const pop_up_container = document.querySelector('.pop-up-position');
 const modalContent = {
   //Aircraft project
   'Cube008' : {
-    title : 'AE643 Project',
+    title : 'AE463 Project',
     content: '<p>This is a group project from an Aeromodelling course in which we were tasked with designing an aircraft; we developed a twin-fuselage design, and a downloadable report corresponding to this project is provided below.</p>',
     link : './The_Globe_Media/AE463_Report.pdf',
     Image : './The_Globe_Media/AE463_Pop_up_Image.jpg'
   },
   'Cube008_1' : {
-    title : 'AE643 Project',
+    title : 'AE463 Project',
     content: '<p>This is a group project from an Aeromodelling course in which we were tasked with designing an aircraft; we developed a twin-fuselage design, and a downloadable report corresponding to this project is provided below.</p>',
     link : './The_Globe_Media/AE463_Report.pdf',
     Image : './The_Globe_Media/AE463_Pop_up_Image.jpg'
   },
   'Propellor_1' : {
-    title : 'AE643 Project',
+    title : 'AE463 Project',
     content: '<p>This is a group project from an Aeromodelling course in which we were tasked with designing an aircraft; we developed a twin-fuselage design, and a downloadable report corresponding to this project is provided below.</p>',
     link : './The_Globe_Media/AE463_Report.pdf',
     Image : './The_Globe_Media/AE463_Pop_up_Image.jpg'
   },
   'Propellor_2' : {
-    title : 'AE643 Project',
+    title : 'AE463 Project',
     content: '<p>This is a group project from an Aeromodelling course in which we were tasked with designing an aircraft; we developed a twin-fuselage design, and a downloadable report corresponding to this project is provided below.</p>',
     link : './The_Globe_Media/AE463_Report.pdf',
     Image : './The_Globe_Media/AE463_Pop_up_Image.jpg'
@@ -814,7 +814,7 @@ const modalContent = {
   //About me
   'About_me_1':{
     title:"Hey there!",
-    content:"<p>Hi, I’m <b>Arush</b> — remember my name, because I show up in people’s dreams with a glass of water.</p><p> <b>Welcome</b> to my website, and <b>Thank you</b> for being here. I’m a final-year undergraduate interested in <b>Web Development</b>, <b>Aerospace</b>, and <b>Computational Engineering</b>, with a growing curiosity for <b>Quantum Computing</b> and <b>Game Development</b>. More than anything, I’m just a boy learning his way through life. Here, you’ll find my projects, skills, and hobbies — explore the page, interact with objects, and discover relevant links along the way.</p><p><b>Enjoy exploring.</b></p>",
+    content:"<p>Hi, I’m <b>Arush</b></p><p> <b>Welcome</b> to my website, and <b>Thank you</b> for being here. I’m a final-year undergraduate interested in <b>Web Development</b>, <b>Aerospace</b>, and <b>Computational Engineering</b>, with a growing curiosity for <b>Quantum Computing</b> and <b>Game Development</b>. More than anything, I’m just a boy learning his way through life. Here, you’ll find my projects, skills, and hobbies — explore the page, interact with objects, and discover relevant links along the way.</p><p><b>Enjoy exploring.</b></p>",
     link:"",
     Image:""
   },
