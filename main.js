@@ -820,13 +820,13 @@ const modalContent = {
   },
   'About_me_2':{
     title:"Hey there!",
-    content:"<p>Hi, I’m <b>Arush</b> — remember my name, because I show up in people’s dreams with a glass of water.</p><p> <b>Welcome</b> to my website, and <b>Thank you</b> for being here. I’m a final-year undergraduate interested in <b>Web Development</b>, <b>Aerospace</b>, and <b>Computational Engineering</b>, with a growing curiosity for <b>Quantum Computing</b> and <b>Game Development</b>. More than anything, I’m just a boy learning his way through life. Here, you’ll find my projects, skills, and hobbies — explore the page, interact with objects, and discover relevant links along the way.</p><p><b>Enjoy exploring.</b></p>",
+    content:"<p>Hi, I’m <b>Arush</b></p><p> <b>Welcome</b> to my website, and <b>Thank you</b> for being here. I’m a final-year undergraduate interested in <b>Web Development</b>, <b>Aerospace</b>, and <b>Computational Engineering</b>, with a growing curiosity for <b>Quantum Computing</b> and <b>Game Development</b>. More than anything, I’m just a boy learning his way through life. Here, you’ll find my projects, skills, and hobbies — explore the page, interact with objects, and discover relevant links along the way.</p><p><b>Enjoy exploring.</b></p>",
     link:"",
     Image:""
   },
   'About_me_3':{
     title:"Hey there!",
-    content:"<p>Hi, I’m <b>Arush</b> — remember my name, because I show up in people’s dreams with a glass of water.</p><p> <b>Welcome</b> to my website, and <b>Thank you</b> for being here. I’m a final-year undergraduate interested in <b>Web Development</b>, <b>Aerospace</b>, and <b>Computational Engineering</b>, with a growing curiosity for <b>Quantum Computing</b> and <b>Game Development</b>. More than anything, I’m just a boy learning his way through life. Here, you’ll find my projects, skills, and hobbies — explore the page, interact with objects, and discover relevant links along the way.</p><p><b>Enjoy exploring.</b></p>",
+    content:"<p>Hi, I’m <b>Arush</b></p><p> <b>Welcome</b> to my website, and <b>Thank you</b> for being here. I’m a final-year undergraduate interested in <b>Web Development</b>, <b>Aerospace</b>, and <b>Computational Engineering</b>, with a growing curiosity for <b>Quantum Computing</b> and <b>Game Development</b>. More than anything, I’m just a boy learning his way through life. Here, you’ll find my projects, skills, and hobbies — explore the page, interact with objects, and discover relevant links along the way.</p><p><b>Enjoy exploring.</b></p>",
     link:"",
     Image:""
   },
